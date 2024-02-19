@@ -1,4 +1,4 @@
-### A continuación mostraremos los comandos que se llevaron a cabo durante el vídeo, si desea usarlo como script de bash solo tome en cuenta que el apartado <span> es meramente decorativo para resaltar cómo se ve en la terminal al ejecutar el mismo, también dejaré el código sin nada más que los comandos a parte
+# A continuación mostraremos los comandos que se llevaron a cabo durante el vídeo, si desea usarlo como script de bash solo tome en cuenta que el apartado <span> es meramente decorativo para resaltar cómo se ve en la terminal al ejecutar el mismo, también dejaré el código sin nada más que los comandos a parte
 
 ```
 $ ssh -i llaves.pem ubuntu@1.1.1.1
